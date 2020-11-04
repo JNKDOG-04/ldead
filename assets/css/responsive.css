@@ -1,0 +1,209 @@
+/*******************************************************
+    Template Name    : Food Velly - Food & Resturant HTML Template
+    Author           : Elegant Theme
+    Version          : 1.0
+    Created          : 2020
+    File Description : Main Reaposive file of the template
+*******************************************************/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.navbar-b.navbar-trans .nav-item, .navbar-b.navbar-reduce .nav-item {
+		padding-right: 0;
+	}
+	.home-area .home-content h1 {
+		font-size: 35px;
+		line-height: 1.3;
+	}
+	.home-area .home-content p {
+		font-size: 15px;
+		line-height: 1.3;
+	}
+	.about-iamges {
+		text-align: center;
+		margin-bottom: 35px;
+	}
+	.special-recipes .recipes-box .recipe {
+		width: 50%;
+		padding: 15px 0;
+	}
+	.single-press-content {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.contact-box {
+			margin-bottom: 30px;
+	}
+	.contact-box:last-child {
+			margin-bottom: 0px;
+	}
+	.delivery-service {
+		text-align: center;
+		padding: 15px 0;
+	}
+
+}
+
+@media only screen and (max-width: 767px) {
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: 250px;
+		overflow-y: scroll;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 33px;
+		line-height: 1.3;
+	}
+	.home-area .home-content p {
+		font-size: 17px;
+		line-height: 1.5;
+		padding: 0;
+	}
+	.about-iamges {
+		text-align: center;
+		margin-bottom: 35px;
+	}
+	.special-recipes .recipes-box .recipe {
+		width: 100%;
+		padding: 15px 0;
+	}
+	.single-press-content {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.contact-box {
+			margin-bottom: 30px;
+	}
+	.contact-box:last-child {
+			margin-bottom: 0px;
+	}
+	.delivery-service {
+		text-align: center;
+		padding: 15px 0;
+	}
+
+}
+
+
+@media only screen and (max-width: 479px) {
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 33px;
+		line-height: 1.3;
+	}
+	.home-area .home-content p {
+		font-size: 17px;
+		line-height: 1.5;
+		padding: 0;
+	}
+	.section-title h2 {
+		font-size: 30px;
+	}
+	.about-iamges {
+		text-align: center;
+		margin-bottom: 35px;
+	}
+	.special-recipes .recipes-box {
+		position: relative;
+		margin: 0;
+	}
+	.special-recipes .recipes-box .recipe {
+		width: 100%;
+		padding: 15px 0;
+	}
+	.single-press-content {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.contact-box {
+			margin-bottom: 30px;
+	}
+	.contact-box:last-child {
+			margin-bottom: 0px;
+	}
+	.delivery-service {
+		text-align: center;
+		padding: 15px 0;
+	}
+
+}
+
+
+@media screen and (max-width: 320px) and (min-width: 0px){
+	.navbar-nav {
+		margin-top: 15px;
+	}
+	.navbar-b .nav-item {
+		margin-bottom: 10px;
+	}
+	.navbar-b .nav-item:last-child {
+		margin-bottom: 0px;
+	}
+	#navbarDefault {
+		width: 100%;
+		height: auto;
+		overflow-y: scroll;
+	}
+	.home-area {
+		padding-top: 150px;
+	}
+	.home-area .home-content h1 {
+		font-size: 27px;
+		line-height: 1.3;
+	}
+	.home-area .home-content p {
+		font-size: 17px;
+		line-height: 1.5;
+		padding: 0;
+	}
+	.about-iamges {
+		text-align: center;
+		margin-bottom: 35px;
+	}
+	.special-recipes .recipes-box {
+		position: relative;
+		margin: 0;
+	}
+	.special-recipes .recipes-box .recipe {
+		width: 100%;
+		padding: 15px 0;
+	}
+	.single-press-content {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.contact-box {
+			margin-bottom: 30px;
+	}
+	.contact-box:last-child {
+			margin-bottom: 0px;
+	}
+	.delivery-service {
+		text-align: center;
+		padding: 15px 0;
+	}
+
+
+}
